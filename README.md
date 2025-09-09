@@ -125,5 +125,6 @@ Miguel Buelvas - contacto@miguelbuelvasdev.com
 
 Enlaces relacionados:
 - [LinkedIn](https://www.linkedin.com/in/miguelbuelvasdev)
+- [Instagram](https://www.instagram.com/miguelbuelvasdev)
 - [GitHub](https://github.com/miguelbuelvasdev)
 
