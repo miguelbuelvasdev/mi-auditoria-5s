@@ -69,7 +69,7 @@ npm run dev
 
 ### 3. Configura el Frontend
 ```bash
-cd ../mi-auditoria-5s
+cd mi-auditoria-5s
 npm install
 cp .env.example .env.local
 # Configura VITE_API_URL apuntando al backend
@@ -114,13 +114,6 @@ VITE_API_URL=https://tu-backend.railway.app  # Producción
 - `POST /api/audits` - Crear nueva auditoría
 - `DELETE /api/audits/:id` - Eliminar auditoría específica
 
-## 🤝 Contribución
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
 
 ## 📝 Licencia
 
@@ -131,5 +124,6 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 Miguel Buelvas - contacto@miguelbuelvasdev.com
 
 Enlaces relacionados:
-- [Frontend Repository](https://github.com/miguelbuelvasdev/mi-auditoria-5s)
-- [Backend Repository](https://github.com/miguelbuelvasdev/mi-auditoria-backend)
+- [LinkedIn](https://www.linkedin.com/in/miguelbuelvasdev)
+- [GitHub](https://github.com/miguelbuelvasdev)
+
