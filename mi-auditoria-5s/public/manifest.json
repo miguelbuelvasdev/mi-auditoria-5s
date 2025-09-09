@@ -1,0 +1,21 @@
+{
+  "name": "Mi Auditoría 5S",
+  "short_name": "Auditoría 5S",
+  "description": "Sistema de Auditoría 5S - Gestión de Calidad y Mejora Continua",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7C3AED",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "es",
+  "categories": ["productivity", "business", "utilities"],
+  "icons": [
+    {
+      "src": "/5s-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

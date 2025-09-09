@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://miguelbuelvasdev.github.io/mi-auditoria-5s/sitemap.xml
+
+# Disallow sensitive paths (if any)
+Disallow: /api/
+Disallow: /admin/
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1

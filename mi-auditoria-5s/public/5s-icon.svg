@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Background circle -->
+  <circle cx="50" cy="50" r="45" fill="#7C3AED" stroke="#A855F7" stroke-width="2"/>
+
+  <!-- 5S Letters -->
+  <text x="50" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" text-anchor="middle" fill="white">5S</text>
+
+  <!-- Audit checklist elements -->
+  <!-- Check mark 1 -->
+  <path d="M25 45 L32 52 L42 38" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Check mark 2 -->
+  <path d="M25 55 L32 62 L42 48" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Check mark 3 -->
+  <path d="M25 65 L32 72 L42 58" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+
+  <!-- Quality badge -->
+  <circle cx="70" cy="70" r="8" fill="#10B981" stroke="white" stroke-width="1"/>
+  <text x="70" y="74" font-family="Arial, sans-serif" font-size="8" font-weight="bold" text-anchor="middle" fill="white">✓</text>
+
+  <!-- Decorative elements -->
+  <rect x="15" y="15" width="4" height="4" fill="white" opacity="0.8"/>
+  <rect x="81" y="15" width="4" height="4" fill="white" opacity="0.8"/>
+  <rect x="15" y="81" width="4" height="4" fill="white" opacity="0.8"/>
+  <rect x="81" y="81" width="4" height="4" fill="white" opacity="0.8"/>
+</svg>
