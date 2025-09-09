@@ -54,7 +54,7 @@ project-5s/
 
 ### 1. Clona el repositorio
 ```bash
-git clone https://github.com/tu-usuario/mi-auditoria-5s.git
+git clone https://github.com/miguelbuelvasdev/mi-auditoria-5s.git
 cd mi-auditoria-5s
 ```
 
